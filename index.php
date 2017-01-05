@@ -18,17 +18,8 @@
     <p>cs1140245@iitd.ac.in</p>
     <p>Github Handle: pan1997</p>
 </div>
-
-<?php
-for($x=0;$x<=10;$x++) {
-    ?>
-    <div class="section">
-        <p>Just some data<?php
-        echo $x;
-            ?></p>
-    </div>
-    <?php
-}
-?>
+<div class="section">
+    <p>Just some data</p>
+</div>
 </body>
 </html>
